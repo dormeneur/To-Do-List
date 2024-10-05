@@ -1,6 +1,7 @@
 # To-Do List
-
 A simple task manager built with HTML, CSS, and JavaScript using Dragula and Vanilla JS.
+
+![screenshot](image.png)
 
 ## Features
 - Add new tasks
